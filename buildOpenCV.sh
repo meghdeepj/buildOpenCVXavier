@@ -9,7 +9,7 @@ OPENCV_VERSION=3.4.3
 #ARCH_BIN=6.2
 # Jetson TX1
 ARCH_BIN=5.3
-INSTALL_DIR=/usr
+INSTALL_DIR=/usr/local
 # Download the opencv_extras repository
 # If you are installing the opencv testdata, ie
 #  OPENCV_TEST_DATA_PATH=../opencv_extra/testdata
